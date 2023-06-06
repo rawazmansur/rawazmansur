@@ -1,17 +1,18 @@
-[### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=hello%2C+world+%F0%9F%91%8B;i'm+rawaz+....)](https://git.io/typing-svg)
 
-<!--
-**rawazmansur/rawazmansur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-](https://github.com/VishwaGauravIn/github-profile-readme-maker.git)
+
+
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://twitter.com/rawazmansur"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/rawazmansur/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.youtube.com/channel/UCC57oHBELz5GPLmtSKYPepw"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.facebook.com/rawazsoft"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/>
+
+
+
+</p>
